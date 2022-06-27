@@ -1,0 +1,243 @@
+\begin{thebibliography}{10}
+
+\bibitem{aoc}
+{Altera SDK for OpenCL.}
+\newblock http://www.altera.com/.
+
+\bibitem{cavium}
+{Cavium Networks OCTEON II processors.}
+\newblock http://www.caviumnetworks.com.
+
+\bibitem{dells6000}
+Dell networking s6000 spec sheet.
+
+\bibitem{lvs}
+Linux virtual server.
+\newblock http://www.linuxvirtualserver.org/.
+
+\bibitem{netronome}
+{Netronome Flow Processor NFP-6xxx.}
+\newblock https://netronome.com/product/nfp-6xxx/.
+
+\bibitem{sdaccel}
+{SDAccel Development Environment.}
+\newblock http://www.xilinx.com/.
+
+\bibitem{strongswan}
+Strongswan ipsec-based vpn.
+\newblock https://www.strongswan.org/.
+
+\bibitem{opencl}
+{The OpenCL Specifications ver 2.1.}
+\newblock Khronos Group.
+
+\bibitem{vivado}
+{Vivado Design Suite.}
+\newblock http://www.xilinx.com/.
+
+\bibitem{broadcomethernet}
+Ethernet switch series, 2013.
+\newblock Broadcom Trident II.
+
+\bibitem{mellanox-100g}
+{Introducing EDR 100GB/s - Enabling the Use of Data}, 2014.
+\newblock Mellanox White Paper.
+
+\bibitem{pfabric}
+M.~Alizadeh, S.~Yang, M.~Sharif, S.~Katti, N.~McKeown, B.~Prabhakar, and
+  S.~Shenker.
+\newblock pfabric: Minimal near-optimal datacenter transport.
+\newblock In {\em Proc. ACM SIGCOMM}, 2013.
+
+\bibitem{auerbach2010lime}
+J.~Auerbach, D.~F. Bacon, P.~Cheng, and R.~Rabbah.
+\newblock Lime: a java-compatible and synthesizable language for heterogeneous
+  architectures.
+\newblock In {\em ACM SIGPLAN Notices}, volume~45, pages 89--108. ACM, 2010.
+
+\bibitem{bachrach2012chisel}
+J.~Bachrach, H.~Vo, B.~Richards, Y.~Lee, A.~Waterman, R.~Avi{\v{z}}ienis,
+  J.~Wawrzynek, and K.~Asanovi{\'c}.
+\newblock Chisel: constructing hardware in a scala embedded language.
+\newblock In {\em Proc. ACM Annual Design Automation Conf.}, 2012.
+
+\bibitem{bacon2013fpga}
+D.~F. Bacon, R.~Rabbah, and S.~Shukla.
+\newblock Fpga programming for the masses.
+\newblock {\em Communications of the ACM}, 56(4):56--63, 2013.
+
+\bibitem{mqecn}
+W.~Bai, L.~Chen, K.~Chen, and H.~Wu.
+\newblock Enabling ecn in multi-service multi-queue data centers.
+\newblock In {\em Proc. USENIX NSDI}, 2016.
+
+\bibitem{barbette2015fast}
+T.~Barbette, C.~Soldani, and L.~Mathy.
+\newblock Fast userspace packet processing.
+\newblock In {\em Proc. ANCS}, 2015.
+
+\bibitem{dependence}
+A.~Bernstein.
+\newblock Analysis of programs for parallel processing.
+\newblock {\em IEEE Transactions on Electronic Computers}, EC-15(5):757--763,
+  Oct 1966.
+
+\bibitem{fpga-vs-gpu2}
+B.~Betkaoui, D.~B. Thomas, and W.~Luk.
+\newblock Comparing performance and energy efficiency of fpgas and gpus for
+  high productivity computing.
+\newblock In {\em 2010 International Conference on Field-Programmable
+  Technology}, 2010.
+
+\bibitem{routebricks}
+M.~Dobrescu, N.~Egi, K.~Argyraki, B.-G. Chun, K.~Fall, G.~Iannaccone, A.~Knies,
+  M.~Manesh, and S.~Ratnasamy.
+\newblock Routebricks: Exploiting parallelism to scale software routers.
+\newblock In {\em Proc. ACM SOSP}, 2009.
+
+\bibitem{Egi:2008:THP:1544012.1544032}
+N.~Egi, A.~Greenhalgh, M.~Handley, M.~Hoerdt, F.~Huici, and L.~Mathy.
+\newblock Towards high performance virtual routers on commodity hardware.
+\newblock In {\em Proc. ACM CoNEXT}, 2008.
+
+\bibitem{duet}
+R.~Gandhi, H.~H. Liu, Y.~C. Hu, G.~Lu, J.~Padhye, L.~Yuan, and M.~Zhang.
+\newblock Duet: Cloud scale load balancing with hardware and software.
+\newblock In {\em Proc. ACM SIGCOMM}, 2014.
+
+\bibitem{albert-ons}
+A.~Greenberg.
+\newblock {Windows Azure: Scaling SDN in Public Cloud}, 2014.
+\newblock OpenNet Submit.
+
+\bibitem{smartnic}
+A.~Greenberg.
+\newblock {SDN for the Cloud}, 2015.
+\newblock Keynote at SIGCOMM 2015
+  (https://azure.microsoft.com/en-us/blog/microsoft-showcases-software-defined-networking-innovation-at-sigcomm-v2/).
+
+\bibitem{Greenhalgh:2009:FPR:1517480.1517484}
+A.~Greenhalgh, F.~Huici, M.~Hoerdt, P.~Papadimitriou, M.~Handley, and L.~Mathy.
+\newblock Flow processing and the rise of commodity network hardware.
+\newblock {\em ACM SIGCOMM CCR}, 39(2):20--26, Mar. 2009.
+
+\bibitem{packetshader}
+S.~Han, K.~Jang, K.~Park, and S.~Moon.
+\newblock Packetshader: A gpu-accelerated software router.
+\newblock In {\em Proc. ACM SIGCOMM}, 2010.
+
+\bibitem{jiang2013scalable}
+W.~Jiang.
+\newblock Scalable ternary content addressable memory implementation using
+  fpgas.
+\newblock In {\em Proc. ANCS}, 2013.
+
+\bibitem{fpga-vs-gpu}
+S.~Kestur, J.~D. Davis, and O.~Williams.
+\newblock Blas comparison on fpga, cpu and gpu.
+\newblock In {\em IEEE Computer Society Symposium on VLSI}, July 2010.
+
+\bibitem{kohler2000click}
+E.~Kohler, R.~Morris, B.~Chen, J.~Jannotti, and M.~F. Kaashoek.
+\newblock The click modular router.
+\newblock {\em ACM Transactions on Computer Systems (TOCS)}, 18(3):263--297,
+  2000.
+
+\bibitem{vmware-multi-tenancy}
+T.~Koponen, K.~Amidon, P.~Balland, M.~Casado, A.~Chanda, B.~Fulton,
+  I.~Ganichev, J.~Gross, N.~Gude, P.~Ingram, et~al.
+\newblock Network virtualization in multi-tenant datacenters.
+\newblock In {\em Proc. USENIX NSDI}, Berkeley, CA, USA, 2014.
+
+\bibitem{lavasani2012compiling}
+M.~Lavasani, L.~Dennison, and D.~Chiou.
+\newblock Compiling high throughput network processors.
+\newblock In {\em Proc. FPGA}, 2012.
+
+\bibitem{lee2015flosis}
+J.~Lee, S.~Lee, J.~Lee, Y.~Yi, and K.~Park.
+\newblock Flosis: a highly scalable network flow capture system for fast
+  retrieval and storage efficiency.
+\newblock In {\em Proc. USENIX ATC}, 2015.
+
+\bibitem{martins2014clickos}
+J.~Martins, M.~Ahmed, C.~Raiciu, V.~Olteanu, M.~Honda, R.~Bifulco, and
+  F.~Huici.
+\newblock Clickos and the art of network function virtualization.
+\newblock In {\em Proc. USENIX NSDI}, 2014.
+
+\bibitem{mckeown2008openflow}
+N.~McKeown, T.~Anderson, H.~Balakrishnan, G.~Parulkar, L.~Peterson, J.~Rexford,
+  S.~Shenker, and J.~Turner.
+\newblock Openflow: enabling innovation in campus networks.
+\newblock {\em ACM SIGCOMM CCR}, 38(2):69--74, 2008.
+
+\bibitem{moon2000scalable}
+S.-W. Moon, J.~Rexford, and K.~G. Shin.
+\newblock Scalable hardware priority queue architectures for high-speed packet
+  switches.
+\newblock {\em IEEE Transactions on Computers}, 2000.
+
+\bibitem{netfpga}
+J.~Naous, G.~Gibb, S.~Bolouki, and N.~McKeown.
+\newblock Netfpga: Reusable router architecture for experimental research.
+\newblock In {\em Proc. PRESTO}, 2008.
+
+\bibitem{bluespec}
+R.~S. Nikhil and Arvind.
+\newblock What is bluespec?
+\newblock {\em ACM SIGDA Newsletter}, 39(1):1--1, Jan. 2009.
+
+\bibitem{cuckoo}
+R.~Pagh and F.~F. Rodler.
+\newblock Cuckoo hashing.
+\newblock {\em Algorithms - ESA 2001. Lecture Notes in Computer Science 2161},
+  2001.
+
+\bibitem{ananta}
+P.~Patel, D.~Bansal, L.~Yuan, A.~Murthy, A.~Greenberg, D.~A. Maltz, R.~Kern,
+  H.~Kumar, M.~Zikos, H.~Wu, C.~Kim, and N.~Karri.
+\newblock Ananta: Cloud scale load balancing.
+\newblock In {\em Proc. ACM SIGCOMM}, 2013.
+
+\bibitem{putnam2014reconfigurable}
+A.~Putnam, A.~M. Caulfield, E.~S. Chung, D.~Chiou, K.~Constantinides, J.~Demme,
+  H.~Esmaeilzadeh, J.~Fowers, G.~P. Gopal, J.~Gray, et~al.
+\newblock A reconfigurable fabric for accelerating large-scale datacenter
+  services.
+\newblock In {\em Proc. Intl. Symp. on Computer Architecture (ISCA)}, 2014.
+
+\bibitem{Click2NetFPGA}
+T.~Rinta-aho, M.~Karlstedt, and M.~P. Desai.
+\newblock The click2netfpga toolchain.
+\newblock In {\em Proc. USENIX ATC}, 2012.
+
+\bibitem{rubow2010chimpp}
+E.~Rubow, R.~McGeer, J.~Mogul, and A.~Vahdat.
+\newblock Chimpp: A click-based programming and simulation environment for
+  reconfigurable networking hardware.
+\newblock In {\em Proc. ANCS}, 2010.
+
+\bibitem{comb}
+V.~Sekar, N.~Egi, S.~Ratnasamy, M.~K. Reiter, and G.~Shi.
+\newblock Design and implementation of a consolidated middlebox architecture.
+\newblock In {\em Proc. USENIX NSDI}, 2012.
+
+\bibitem{rollback-mb}
+J.~Sherry, P.~Gao, S.~Basu, A.~Panda, A.~Krishnamurthy, C.~Macciocco,
+  M.~Manesh, J.~Martins, S.~Ratnasamy, L.~Rizzo, and S.~Shenker.
+\newblock Rollback recovery for middleboxes.
+\newblock In {\em Proc. ACM SIGCOMM}, 2015.
+
+\bibitem{singh2011implementing}
+D.~Singh.
+\newblock Implementing fpga design with the opencl standard.
+\newblock {\em Altera whitepaper}, 2011.
+
+\bibitem{wester2015transformation}
+R.~Wester.
+\newblock A transformation-based approach to hardware design using higher-order
+  functions.
+\newblock 2015.
+
+\end{thebibliography}
